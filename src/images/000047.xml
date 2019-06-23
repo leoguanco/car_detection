@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000047.jpeg</filename>
+	<path>/Users/leo/Documents/undav/multimedial/images/000047.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>402</width>
+		<height>125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>5</ymin>
+			<xmax>386</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>
