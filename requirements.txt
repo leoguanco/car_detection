@@ -1,0 +1,9 @@
+tensorflow
+Cython
+contextlib2
+pillow
+lxml
+jupyter
+matplotlib==3.0.2
+pandas
+object_detection
