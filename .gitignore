@@ -2,3 +2,6 @@ src/training/*
 src/frozen_models/*
 src/data/test*
 src/data/train*
+!src/models/test
+!src/models/train
+src/models/*
