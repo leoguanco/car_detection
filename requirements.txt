@@ -1,9 +1,9 @@
-tensorflow
+tensorflow-gpu
 Cython
 contextlib2
 pillow
 lxml
 jupyter
-matplotlib==3.0.2
+matplotlib
 pandas
 object_detection
