@@ -1,7 +1,7 @@
-src/training/*
-src/frozen_models/*
-src/data/test*
-src/data/train*
-!src/models/test
-!src/models/train
-src/models/*
+training/*
+frozen_models/*
+data/test*
+data/train*
+!models/test
+!models/train
+models/*
